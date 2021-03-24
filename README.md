@@ -1,5 +1,20 @@
-# html-starter
+# Found your own Restaurant 
 
-1. Click "Use this template"
-2. Give it a new repository name for your purposes, Github will create a new repo on your account with this starter code
-3. Navigate to your Github profile, locate your new repo and clone it to your local directory
+## Brainstorm the following information for the restaurant page you will be creating together!
+
+- Name of restaurant
+- Style of cuisine
+- Where it will be located, contact info
+- Top 3 dishes
+- Motto or mission statement
+- Information about the founders
+
+## Your website must include a variety of different HTML elements 
+- header elements (h1, h3, etc.)
+- images
+- paragraph
+- anchor (a) element linking to another page
+- *List 
+- *Table 
+
+
