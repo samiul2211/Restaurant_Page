@@ -1,4 +1,4 @@
-# Found your own Restaurant ![Restaurant](https://image.shutterstock.com/image-vector/vector-horizontal-illustration-cafe-cartoon-260nw-1267144390.jpg)
+# Found your own Restaurant! ![Restaurant](https://image.shutterstock.com/image-vector/vector-horizontal-illustration-cafe-cartoon-260nw-1267144390.jpg)
 
 ## Brainstorm the following information for the restaurant page you will be creating together!
 
