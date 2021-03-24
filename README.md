@@ -9,7 +9,7 @@
 - Motto or mission statement
 - Information about the founders
 
-## Your website must include a variety of different HTML elements 
+## Your website must include a variety of different HTML elements (use [documentation when needed](https://www.w3schools.com/html/default.asp) ) 
 - header elements (h1, h3, etc.)
 - images
 - paragraph
